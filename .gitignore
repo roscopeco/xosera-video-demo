@@ -17,3 +17,4 @@
 **/*.sym
 **/*.elf
 .vscode/*
+utils/image_to_monobitmap
